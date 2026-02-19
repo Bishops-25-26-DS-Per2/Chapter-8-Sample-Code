@@ -5,3 +5,4 @@
   1. In class on Tuesday, February 10, we talked about scope, and illustrated this with the examples seen in `scope.cpp` above.  This is all the same in C as it is in C++.
   1. In class on Thursday, Feb 12, we practiced writing a couple of functions in the parabola examples above.  Then, we looked at how to use a C++ `array` object, which has an interface that is kind of similar to a Python `list`.  There is also a `list` object in C++ with a similar interface.
   1. In class on Wednesday, Feb 18, we looked at C-style `array`s, and how to generate random numbers in C and C++.
+  1. In class on Thursday, Feb 19, I showed a few tricks and tips that may help you with your 2048 lab.  Note: I posted a new version of the Lab Handout with some added test rows because the tests in the earlier version were insufficient.
